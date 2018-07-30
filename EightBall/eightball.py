@@ -6,7 +6,7 @@ class eightball(object):
     #    Say this is from some input such as 'input("Ask your question')
     #    and the response is 'who am i' then pass nothing and this will
     #    respond with one of the answers based on the randomint class
-    def balls(self):
+    def shake(self):
         decisions = ['Signs point to yes', 'Yes', 'Reply hazy, try again', 'Without a doubt', 'My sources say no',
                      'As I see it, yes', 'You may rely on it', 'Concentrate and ask again', 'Outlook not so good',
                      'It is decidedly so', 'Better not tell you now', 'Very doubtful', 'Yes - definitely',
